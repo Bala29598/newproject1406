@@ -12,6 +12,9 @@ public class TmbitNew {
 		System.out.println("The computer model2: Apple");
 	}
 	
+	private void Beautifu() {
+		System.out.println("going to us");
+	}
 	
 	
 	
