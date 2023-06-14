@@ -13,6 +13,8 @@ public class TmbitNew {
 	}
 	
 	
-	
+	private void summa() {
+System.out.println("12345679");
+	}
 	
 }
