@@ -21,6 +21,11 @@ public class TmbitNew {
 	}
 	
 	
+	private void sss3() {
+	System.out.println("`234567890-");
+	}
+	
+	
 	
 	
 }
